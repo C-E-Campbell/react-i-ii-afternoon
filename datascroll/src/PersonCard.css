@@ -1,0 +1,31 @@
+.card {
+	width: 60%;
+	height: 200px;
+	background-color: #ebebeb;
+	color: #333;
+	padding: 1rem 3rem;
+	margin: 3rem auto 1rem;
+	position: relative;
+	border-radius: 4px;
+}
+
+.name {
+	width: 40%;
+	border-bottom: 2px solid #34a5da;
+	font-size: 1.6rem;
+}
+
+.counter {
+	position: absolute;
+	font-size: 1.3rem;
+	top: 0;
+	right: 1.5rem;
+}
+
+span {
+	font-weight: 400;
+}
+
+h3 {
+	font-size: 1rem;
+}
